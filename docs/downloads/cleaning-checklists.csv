@@ -1,0 +1,30 @@
+area,task,routine,deep,move_in_out,notes
+Kitchen,"Counters, backsplash, sink, and faucet",included,included,included,
+Kitchen,Microwave inside and outside,included,included,included,
+Kitchen,Appliance exteriors,included,included,included,
+Kitchen,Cabinet and drawer fronts,not_included,included,included,
+Kitchen,Inside empty cabinets and drawers,not_included,optional,included,Empty first.
+Kitchen,Inside refrigerator,optional,optional,included,Empty first for move cleaning.
+Kitchen,Inside oven,optional,optional,included,Normal-use buildup only.
+Kitchen,Range hood exterior,not_included,included,included,
+Kitchen,Range hood interior or filter detail,optional,optional,optional,Confirm before service.
+Bathrooms,"Toilets, base, and behind",included,included,included,
+Bathrooms,"Tub, shower, sink, faucet, counters, and mirrors",included,included,included,
+Bathrooms,Surface scrub of accessible tile and grout,not_included,included,included,Permanent stains may remain.
+Bathrooms,Hard-water buildup or heavy soap scum,optional,included,included,Cleaning cannot reverse permanent staining or damage.
+Bathrooms,"Mold, biohazard, urine, feces, or animal waste",not_included,not_included,not_included,Use an appropriate specialist.
+Living areas and bedrooms,"Dust reachable surfaces, lamps, frames, and sills",included,included,included,
+Living areas and bedrooms,"Vacuum, sweep, mop, and empty trash",included,included,included,
+Living areas and bedrooms,Make beds when fresh linens are left out,included,included,not_included,
+Living areas and bedrooms,Baseboards,not_included,included,included,
+Living areas and bedrooms,Door frames,not_included,included,included,
+Living areas and bedrooms,Reachable fans and fixtures,not_included,included,included,Use a two-step ladder at most.
+Living areas and bedrooms,Move light furniture,not_included,optional,optional,"Do not move heavy furniture, appliances, or large rugs."
+Living areas and bedrooms,Heavy pet hair,optional,optional,optional,Pet waste is not included.
+Windows and utility areas,Up to 10 reachable interior windows,not_included,included,included,Interior glass only.
+Windows and utility areas,Window tracks and blinds,optional,optional,optional,Confirm before service.
+Windows and utility areas,Inside empty closets,not_included,optional,included,Empty first.
+Windows and utility areas,Garage or basement sweeping,not_included,optional,optional,Only when specifically quoted. No hauling or organizing.
+Windows and utility areas,Laundry and folding,optional,optional,optional,Machine cycles affect how much can be completed.
+Windows and utility areas,Light wall spot-cleaning,optional,included,included,Small safe wipes only. Permanent marks may remain.
+Windows and utility areas,Full wall washing,not_included,not_included,not_included,May damage paint. Use an appropriate specialist.

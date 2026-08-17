@@ -1,0 +1,11 @@
+score,label,description,booking_guidance
+1,Immaculate,Pristine throughout. Light maintenance only.,maintained
+2,Exceptional,Cleaned almost daily. A quick refresh.,maintained
+3,Good,Light surface dust. Looks weekly-cleaned.,maintained
+4,Maintained,Light buildup. Looks biweekly-cleaned.,maintained
+5,Average,Comfortably lived in. Light soap scum. A deep clean may fit better.,review_fit
+6,Moderate,Pets or kids. Moderate bathroom or kitchen buildup.,photos_required
+7,Fallen Behind,Noticeable buildup in bathrooms and kitchen.,photos_required
+8,Challenging,"Heavy dust, soap scum, or kitchen buildup. Detailed scrubbing is needed.",photos_required
+9,Maximum Challenge,Intensive detailing throughout. Some floors may need multiple passes.,photos_required
+10,Specialist,"Biohazard, hoarding, pest waste, or unsafe conditions require a qualified specialist.",specialist
