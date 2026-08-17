@@ -2,6 +2,7 @@
 
 A generic residential cleaning checklist you can reuse, edit, and repurpose.
 
+- [Open the cleaning checklist page](https://rohanaurora.github.io/open-home-cleaning-checklists/)
 - [Edit the checklist in Canva](https://canva.link/2wavf3pkd2pakz4)
 - [Download the PDF](cleaning-checklist.pdf)
 
