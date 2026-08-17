@@ -1,4 +1,4 @@
-__pycache__/
-*.pyc
 .qa/
 source-pdfs/
+__pycache__/
+*.pyc
